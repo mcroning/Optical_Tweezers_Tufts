@@ -1,5 +1,5 @@
 # Optical_Tweezers_Tufts
-Labview code for running optical tweezer based rheology setup
+LabVIEW code for running optical tweezer based rheology setup
 This repository contains the source distribution for the labview program that currently runs the optical tweezers setup in lab 211 at Tufts Sci Tech Center, 4 Colby Street, Medford MA 02155
 
 It contains a main loop driving the microscope camera, receiving data from the QPD and a rudimentary feedback loop to try to stabilize the trapping beam on the trapped bead. The Thorlabs Kinesis Cube can probably do this better by itself.
